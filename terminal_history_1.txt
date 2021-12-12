@@ -1,0 +1,53 @@
+    1  conda activate dev
+    2  cd desktop
+    3  ls
+    4  cd Challenge_3/
+    5  ls
+    6  cd ..
+    7  cd Challenge_3
+    8  ls
+    9  cp Starter_Code/*.* ../desktop
+   10  cd ..
+   11  ls
+   12  cd Challenge_3
+   13  ls
+   14  cd Starter_Code/
+   15  ls
+   16  cp --help
+   17  info '(coreutils) cp invocation'
+   18  cd ../..
+   19  rename Challenge_3 Challenge_3_old
+   20  mv Challenge_3 Challenge_3_old
+   21  ls
+   22  rm Challenge_3
+   23  cd Challenge_3_old/
+   24  ls
+   25  cd Starter_Code/
+   26  ls
+   27  cd ../..
+   28  git clone https://github.com/blandwhite/Challenge_3.git
+   29  ls
+   30  cd Challenge_3
+   31  ls
+   32  cd ..
+   33  mv Challenge_3_old/ Challenge_3
+   34  cd Challenge_3
+   35  ls
+   36  cd Challenge_3_old/
+   37  ls
+   38  mv Starter_Code/ ../../Challenge_3
+   39  ls
+   40  cd ..
+   41  ls
+   42  rm Challenge_3_old/
+   43  mv Challenge_3_old/ ../../Desktop/Old\ classwork/
+   44  ls
+   45  git status
+   46  git add . 
+   47  git commit -m "Adding Starter Code folder to remote repo"
+   48  git push
+   49  jupyter lab
+   50  git status
+   51  history 50
+   52  history 100
+   53  history 100 > terminal_history_1.txt

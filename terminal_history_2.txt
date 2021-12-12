@@ -1,0 +1,9 @@
+    1  conda activate dev
+    2  cd Desktop/Challenge_3
+    3  git status
+    4  git add . 
+    5  git commit -m "updated README and completed code for reading in CSV files"
+    6  git push
+    7  history 50 >
+    8  history 50
+    9  history 50 > terminal_history_2.txt
