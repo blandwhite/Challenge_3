@@ -1,6 +1,8 @@
 # Challenge_3
 UNCC Online FinTech Bootcamp Module 3 Challenge, due by 11:59pm 12/19/2021
 
+![Bitcoin lOve](images/3-5-Bitcoin.png)
+https://courses.bootcampspot.com/courses/980/files/1032135
 ---
 
 ### This Challenge consists of the following steps:
