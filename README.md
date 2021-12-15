@@ -3,7 +3,6 @@ UNCC Online FinTech Bootcamp Module 3 Challenge, due by 11:59pm 12/19/2021
 
 ![Bitcoin lOve](images/3-5-Bitcoin.png)  
 https://courses.bootcampspot.com/courses/980/files/1032135
----
 
 ### This Challenge consists of the following steps:
 
@@ -15,6 +14,24 @@ https://courses.bootcampspot.com/courses/980/files/1032135
     
 ---
 
+### Background
+
+In this Challenge, we'll consider arbitrage opportunities in Bitcoin between two different Bitcoin exchanges (Bitstamp and Coinbase). We'll start by sorting through historical trade data for Bitcoin on the two exchanges and apply the three phases of financial analysis: collect the data; prepare the data; and analyze the data.
+
+---
+
+### What's Being Created
+
+We’ll create a Jupyter notebook that contains the code for your data collection, preparation, and analysis, including any visualizations. Within the same notebook file, we will use comments and text to document your analysis, including the answers to the questions in the Challenge instructions. We will make this report clear and concise, understanding that it will be presented to the executive decision maker (who may or may not have experience with the coding that is used to create the Bitcoin analysis).
+
+To accomplish these tasks, we'll:
+
+ - Collect CSV data in a Jupyter notebook file.
+ - Prepare the datasets for analysis by cleaning missing and erroneous data.
+ - Analyze the data at a high level through summary statistics and visualizations, and use this information to select areas for deeper analysis. Specifically, we’ll select time periods in which to identify arbitrage opportunities.
+ 
+ ---
+
 ### Technologies
 
 This application is written in Python 3.7.
@@ -24,7 +41,7 @@ Python libraries used:
   Pathlib is a library that enables consistent input and output of files from the main app. 
  - Pandas: [https://pandas.pydata.org/pandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/)  
  Pandas is is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
----
+
 ### Installation Guide
 
 prior to running these libraries, install them from the command line:  
