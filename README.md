@@ -22,7 +22,7 @@ In this Challenge, we'll consider arbitrage opportunities in Bitcoin between two
 
 ### What's Being Created
 
-We’ll create a Jupyter notebook that contains the code for your data collection, preparation, and analysis, including any visualizations. Within the same notebook file, we will use comments and text to document your analysis, including the answers to the questions in the Challenge instructions. We will make this report clear and concise, understanding that it will be presented to the executive decision maker (who may or may not have experience with the coding that is used to create the Bitcoin analysis).
+We’ll create a Jupyter notebook that contains the code for the data collection, preparation, and analysis, including any visualizations. Within the same notebook file, we will use comments and text to document our analysis, including the answers to the questions in the Challenge instructions. We will make this report clear and concise, understanding that it could be presented to the executive decision maker (who may or may not have experience with the coding that is used to create the Bitcoin analysis).
 
 To accomplish these tasks, we'll:
 
@@ -50,7 +50,10 @@ prior to running these libraries, install them from the command line:
 ---
 ### Usage
 
-*show some clips, explain flow*
+By examining different slices of time during the 3-month period, we can observe more opportunities for profitable trades exist early on and fizzle out over time. The stronger opportunities are seen as areas on the graph where the blue line is peeking out from behind the orange line.
+![](images/3_month_overlay_markup.png)
+
+
 
 ---
 ### Contributors
